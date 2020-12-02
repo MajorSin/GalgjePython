@@ -1,4 +1,4 @@
-#MODULES
+#MODULE
 import time
 import getpass
 #GALGJE START
