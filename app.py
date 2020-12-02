@@ -2,9 +2,9 @@
 import time
 import getpass
 #GALGJE START
-print("▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬")
+print("----------------------")
 print("GALGJE")
-print("▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬")
+print("----------------------")
 time.sleep(1)
 print( )
 word = getpass.getpass(prompt = "Speler 1, kies een woord (woord is niet zichtbaar tijdens het typen):").lower()
